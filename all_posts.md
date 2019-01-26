@@ -1,6 +1,6 @@
 ---
-layout: allposts
-title: All posts
+layout: reviews
+title: Reviews
 landing-title: 'Reviews'
 nav-menu: true
 description: null
