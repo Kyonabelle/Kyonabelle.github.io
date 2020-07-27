@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Reviews
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'Films and television series, for now'
+image: assets/images/Tteok show logo_1080.jpg
 nav-menu: true
 ---
 
@@ -11,11 +11,15 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/Article1_Psycho_ss1" alt="" data-position="center center" />
+		</a>
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Article: The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Description</p>
 	</div>
 </section>
 
@@ -23,7 +27,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/Article1_Psycho_ss1" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
