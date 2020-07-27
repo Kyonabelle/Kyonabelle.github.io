@@ -1,61 +1,65 @@
 ---
-title: Reviews
 layout: landing
-description: 'Films and TV series'
+title: HELP
+landing-title: 'FIX THIS'
 nav-menu: true
+description: 
+image: assets/images/Tteok show logo_1080.jpg
+author: null
+show_tile: true
 ---
 
 <!-- Main -->
 <div id="main">
 
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Articles</h1>
+			<h2></h2>
 		</header>
+		<p>Thanks for visiting my website!</p>
+
+<a href="generic.html" class="image">
+			<img src="assets/images/" alt="" data-position="center center" />
+
 	</div>
 </section>
-
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Article2_Twice.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> “Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</h3>
+					<h3>Orci maecenas</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Read more</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
+					<h3>Rhoncus magna</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Read more</a></li>
+					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-
-
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
