@@ -1,33 +1,28 @@
 # site settings
 title: Hello
-subtitle: by sammosensei
+subtitle: 
 email: annabellekyonteo@gmail.com
 description: A responsive site template designed by sammosensei Up<br /> and released under the Creative Commons.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Annabelle
+author: Annabelle Kyon Teo
 street_address: 
-city: 
-state: 
+city: Singapore
+state:
 zip_code: 
-country: 
+country: Singapore
 phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: 
-googleplus_url: 
+# social settings 
 instagram_url: https://www.instagram.com/bellethefreeelf/
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url: 
+linkedin_url: https://www.linkedin.com/in/annabelletxp/
+spotify_url: https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw
+anchor_url: https://anchor.fm/tteokshow
+twitter_url: https://twitter.com/TteokShow
 
 # build settings
 markdown: kramdown
