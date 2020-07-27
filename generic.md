@@ -5,7 +5,14 @@ description: Hey there!
 image: assets/images/About me_1.jpg
 nav-menu: true
 ---
-<span class="image fit"><img src="assets/About me_1.jpg" alt="" /></span>
+
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="assets/images/About me_1.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/Tteok show logo_1080.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
+		<!-- Break -->
+
 
 It's a me, Mario
 
@@ -14,7 +21,7 @@ It's a me, Mario
 <a href="https://www.instagram.com/bellethefreeelf/">Instagram</a>.</p>
 
 <p><h3>My film and TV review podcast</h3>
-<a href="https://anchor.fm/tteokshow">anchor</a>.
+<a href="https://anchor.fm/tteokshow">Anchor</a>.
 <a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Spotify</a>.
 <a href="https://twitter.com/TteokShow">Twitter</a>.
 </p>
