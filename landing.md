@@ -24,7 +24,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1" alt="" data-position="center center" />
+			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -40,7 +40,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="top center" />
+			<img src="assets/images/Article2_Twice.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
