@@ -1,7 +1,7 @@
 ---
-layout: About me
-title: About me
-landing-title: 'About me'
+layout: reviews_FIX THIS
+title: FIX THIS
+landing-title: 'FIX THIS'
 nav-menu: true
 description: I am...
 image: assets/images/Tteok show logo_1080.jpg
