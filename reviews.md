@@ -9,16 +9,12 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Articles</h1>
 		</header>
-	</div>
-</section>
-
 
 <!-- Two -->
 <section id="two" class="spotlights">
