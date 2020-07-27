@@ -11,17 +11,26 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1" alt="" data-position="center center" />
-		</a>
+
+<!-- One -->
+<section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2><b>Article:</b> The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h2>
+			<h1>Articles</h1>
 		</header>
-		<p>Description</p>
 	</div>
 </section>
+
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Article 1</h3>
+		<p> The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Article 2</h3>
+		<p> “Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</p>
+	</div>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
