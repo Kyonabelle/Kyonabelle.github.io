@@ -45,11 +45,11 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3> “Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</h3>
 				</header>
 				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
