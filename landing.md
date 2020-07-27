@@ -2,7 +2,7 @@
 title: Reviews
 layout: landing
 description: 'Films and television series, for now'
-image: assets/images/Tteok show logo_1080.jpg
+image: assets/images/.jpg
 nav-menu: true
 ---
 

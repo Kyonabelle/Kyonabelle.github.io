@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Photography
 nav-menu: true
 ---
