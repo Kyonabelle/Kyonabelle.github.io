@@ -7,8 +7,8 @@ baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Annabelle
 street_address: 
-city: State College
-state: PA
+city: 
+state: 
 zip_code: 
 country: 
 phone: 
@@ -24,7 +24,7 @@ github_url:
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/bellethefreeelf/
-linkedin_url: 
+linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: 
