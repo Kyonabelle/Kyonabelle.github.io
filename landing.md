@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: landing
 title: About me
 description: Hello there!
 image: null
