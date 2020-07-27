@@ -1,9 +1,9 @@
 ---
-layout: reviews
-title: Reviews
-landing-title: 'Reviews'
+layout: About me
+title: About me
+landing-title: 'About me'
 nav-menu: true
-description: Films and television series, for now.
+description: I am...
 image: assets/images/Tteok show logo_1080.jpg
 author: Annabelle
 show_tile: true
@@ -16,7 +16,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h2>
+			<h2></h2>
 		</header>
 		<p>The West has been the world’s top exporter of mainstream pop music for as long as I can remember. As Western countries projected themselves as a mighty global trend-setter, citizens of periphery countries (such as my own, i.e. non-Western countries) have been subjected to the flow of influence and power from the perspective of “West to the rest”. For non-Western acts to find success therefore, we tend to subconsciously view it as the peripheral country (or, “non-White” country) assimilating with and adapting to suit the predominantly White, players...</p>
 
