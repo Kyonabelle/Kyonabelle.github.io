@@ -1,27 +1,32 @@
 # site settings
-title: Hello
-subtitle: 
+title: Webbie
+subtitle: by Annabelle
 email: annabellekyonteo@gmail.com
 description: A responsive site template designed by sammosensei Up<br /> and released under the Creative Commons.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Annabelle Kyon Teo
+author: Annabelle
 street_address: 
 city: Singapore
-state:
+state: Singapore
 zip_code: 
-country: Singapore
+country: 
 phone: 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
-# social settings 
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://www.instagram.com/bellethefreeelf/
 linkedin_url: https://www.linkedin.com/in/annabelletxp/
-spotify_url: https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw
-anchor_url: https://anchor.fm/tteokshow
+pinterest_url:
+slack_url:
 twitter_url: https://twitter.com/TteokShow
 
 # build settings
