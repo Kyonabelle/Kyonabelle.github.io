@@ -20,7 +20,8 @@ show_tile: true
 		</header>
 		<p>The West has been the world’s top exporter of mainstream pop music for as long as I can remember. As Western countries projected themselves as a mighty global trend-setter, citizens of periphery countries (such as my own, i.e. non-Western countries) have been subjected to the flow of influence and power from the perspective of “West to the rest”. For non-Western acts to find success therefore, we tend to subconsciously view it as the peripheral country (or, “non-White” country) assimilating with and adapting to suit the predominantly White, players...</p>
 
-image: assets/images/Article1_Psycho_ss1
+<a href="generic.html" class="image">
+			<img src="assets/images/Article1_Psycho_ss1" alt="" data-position="center center" />
 
 	</div>
 </section>
