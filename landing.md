@@ -1,88 +1,25 @@
 ---
-title: Reviews
-layout: landing
-description: 'Films and television series'
-image: assets/images/Tteok show logo_1080.jpg
+layout: post
+title: About me
+description: Hey there!
+image: null
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
-
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Articles</h1>
-		</header>
+		<div class="4u"><span class="image fit"><img src="assets/images/Werk_Gracet.jpg" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/Werk_timg.jpg" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/" alt="Tteok show logo_1080.jpg" alt="" /></span></div>
 	</div>
-</section>
-
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Read more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/Article2_Twice.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3> “Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Read more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
-
 </div>
+
+It's a me, Mario
+
+<p><h3>Social media</h3>
+<a href="https://www.linkedin.com/in/annabelletxp/">LinkedIn</a>.
+<a href="https://www.instagram.com/bellethefreeelf/">Instagram</a>.</p>
+
+<p><h3>My film and TV review podcast</h3>
+<a href="https://anchor.fm/tteokshow">Anchor</a>.
+<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Spotify</a>.
+<a href="https://twitter.com/TteokShow">Twitter</a>.
+</p>
