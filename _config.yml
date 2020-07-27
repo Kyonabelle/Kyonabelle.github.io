@@ -2,15 +2,15 @@
 title: Webbie
 subtitle: by Annabelle
 email: annabellekyonteo@gmail.com
-description: A responsive site template designed by sammosensei Up<br /> and released under the Creative Commons.
+description: Welcome to Annabelle's online portfolio!
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Annabelle
 street_address: 
 city: Singapore
-state: Singapore
+state:
 zip_code: 
-country: 
+country: Singapore
 phone: 
 
 # homepage tiles
