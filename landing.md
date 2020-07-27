@@ -17,7 +17,7 @@ nav-menu: true
 		</a>
 	<div class="inner">
 		<header class="major">
-			<h2>Article: The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h2>
+			<h2><b>Article:</b> The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h2>
 		</header>
 		<p>Description</p>
 	</div>
