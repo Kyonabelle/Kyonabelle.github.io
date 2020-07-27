@@ -2,12 +2,12 @@
 title: Reviews
 layout: landing
 description: 'Films and TV series'
-image: assets/images/Tteok show logo_1080.jpg
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
+
 
 <!-- One -->
 <section id="one">
@@ -15,6 +15,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Articles</h1>
 		</header>
+	</div>
+</section>
+
 
 <!-- Two -->
 <section id="two" class="spotlights">
