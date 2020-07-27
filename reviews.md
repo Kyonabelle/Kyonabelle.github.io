@@ -24,22 +24,6 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Read more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
 			<img src="assets/images/Article2_Twice.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -54,6 +38,25 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
+	<section>
+		<a href="generic.html" class="image">
+			<img src="assets/images/Article1_Psycho_ss1.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Read more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
 	<section>
 		<a href="generic.html" class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
