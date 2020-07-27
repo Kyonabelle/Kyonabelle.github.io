@@ -11,21 +11,19 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Photography</h1>
+			<h1>Projects</h1>
 		</header>
 
-<!-- Content -->
-<h2 id="content">Projects</h2>
 <p>Highlights of my photography projects. Check out my Instagram too!</p>
-
-<!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:495px; height:495px"></iframe>
 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Instagram journey</h3>
 		<p>A photo a day keeps me on my toes, looking for good angles and thinking of good captions.</p>
-	</div>
+
+<!-- SnapWidget -->
+<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
+</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Photography projects</h3>
 		<p>Weddings, pre-wedding photoshoots, model shoots</p>

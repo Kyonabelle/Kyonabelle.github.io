@@ -3,7 +3,7 @@ layout: landing
 title: 
 landing-title: 'FIX THIS'
 nav-menu: true
-description: I am...
+description: 
 image: assets/images/Tteok show logo_1080.jpg
 author: null
 show_tile: true
