@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Whiskey and elmo</h1>
+			<h1>My videos!</h1>
 		</header>
 	</div>
 </section>
