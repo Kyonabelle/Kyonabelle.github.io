@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Annabelle Kyon Teo"
+landing-title: 'Annabelle Kyon Teo'
 description: null
 image: null
 author: null
