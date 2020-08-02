@@ -1,12 +1,4 @@
----
-layout: landing
-title: Reviews
-description: 'Films and TV series'
-image: assets/images/pic07.jpg
-nav-menu: true
----
-
-<!-- Main -->
+I"<!-- Main -->
 <div id="main">
 
 
@@ -89,3 +81,4 @@ nav-menu: true
 </section>
 
 </div>
+:ET

@@ -1,5 +1,3 @@
-https://www.kyonabelle.github.io  
-
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
@@ -13,7 +11,7 @@ or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontm
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
+- **GitHub**: Fork this repository and create a branch named `gh-pages`, then start editing the `_config.yml` file.
 
 # Added Features
 

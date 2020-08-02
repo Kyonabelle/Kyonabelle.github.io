@@ -29,13 +29,13 @@
 					<a href="#">{{ site.email }}</a>
 				</div>
 			</section>
-<!-- 	this is the phone thing change this lol		<section>
+			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
 					<span>{{ site.phone }}</span>
 				</div>
-			</section> -->
+			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
@@ -59,30 +59,6 @@
 					</span>
 				</div>
 			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-instagram"></span>
-					<h3>Instagram</h3>
-					<a href="{{ site.instagram_url }}">@bellethefreeelf</a>
-
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-twitter"></span>
-					<h3>Twitter</h3>
-					<a href="{{ site.twitter_url }}">@Tteokshow</a>
-
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-linkedin"></span>
-					<h3>LinkedIn</h3>
-					<a href="{{ site.linkedin_url }}">@annabelletxp</a>
-
-				</div>
-			</section>
 		</section>
 	</div>
 </section>
@@ -100,9 +76,9 @@
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
 				{% endif %}
-				<!-- {% if site.instagram_url %}
+				{% if site.instagram_url %}
 				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %} -->
+				{% endif %}
 				{% if site.pinterest_url %}
 				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
 				{% endif %}
@@ -124,6 +100,9 @@
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
 			</ul>
 		</div>
 	</footer>

@@ -1,6 +1,8 @@
 ---
-layout: landing
+layout: post
 title: Photography
+description: Check out my portfolio
+image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
