@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Is K-pop ‘real’ music? Forbes’ Asia ‘30 under 30’ compiled a list of individuals in Asia, categorising them by their area of specialty: industry, manufacturing and energy, enterprise technology, big money, and so on. <br>
 
-Korean girl group Twice made it onto Forbes’ list under ‘Sports and Entertainment’. Can’t really say I’m surprised; Twice’s members’ appearances on variety shows often gain record viewerships, and their sponsorships and commercials (what Koreans term as ‘CF’) guarantee top sales that season. The girl group arguably owes much of its success to its strong fan-base, who propelled Twice’s music video views into the thousands within minutes of its release...</p>
+Korean girl group Twice made it onto Forbes’ list under ‘Sports and Entertainment’. Can’t really say I’m surprised; Twice’s members’ appearances on variety shows often gain record viewerships, and their sponsorships and commercials (what Koreans term as ‘CF’) guarantee top sales that season. The girl group arguably owes much of its success to its strong fan-base...</p>
 				<ul class="actions">
 					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Read more</a></li>
 				</ul>
@@ -49,7 +49,7 @@ Korean girl group Twice made it onto Forbes’ list under ‘Sports and Entertai
 				<header class="major">
 					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The West has been the world’s top exporter of mainstream pop music for as long as I can remember. As Western countries projected themselves as a mighty global trend-setter, citizens of periphery countries (such as my own, i.e. non-Western countries) have been subjected to the flow of influence and power from the perspective of “West to the rest”. For non-Western acts to find success therefore, we tend to subconsciously view it as the peripheral country (or, “non-White” country) assimilating with and adapting to suit the predominantly White, players...</p>
 				<ul class="actions">
 					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Read more</a></li>
 				</ul>
