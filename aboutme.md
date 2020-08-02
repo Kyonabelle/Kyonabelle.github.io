@@ -7,7 +7,6 @@ nav-menu: true
 ---
 <span class="image fit"><img src="assets/images/About me_edit.jpg" alt="" /></span>
 
-
 <div>It's a me, Mario</div>
 
 <p><h3>Social media</h3>
