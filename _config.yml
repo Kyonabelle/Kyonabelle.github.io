@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings
 500px_url:
@@ -23,11 +23,11 @@ facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url: 
-instagram_url: 
-linkedin_url: 
+instagram_url: https://www.instagram.com/bellethefreeelf/
+linkedin_url: https://www.linkedin.com/in/annabelletxp/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/TteokShow
 
 # build settings
 markdown: kramdown
