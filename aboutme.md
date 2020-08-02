@@ -5,7 +5,7 @@ description: Hello there!
 image: null
 nav-menu: true
 ---
-<span class="image fit"><img src="assets/images/About me_edit.jpg" alt="" /></span>
+<span class="image fit"><img src="assets/images/About me_edit2.jpg" alt="" /></span>
 
 <div>It's a me, Mario</div>
 
