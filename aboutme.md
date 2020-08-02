@@ -5,11 +5,10 @@ description: Hello there!
 image: null
 nav-menu: true
 ---
-<div class="4u"><span class="image fit"><img src="assets/images/About me_edit.jpg" alt="" /></span></div>
-	</div>
-</div>
+<span class="image fit"><img src="assets/images/About me_edit.jpg" alt="" /></span>
 
-It's a me, Mario
+
+<div>It's a me, Mario</div>
 
 <p><h3>Social media</h3>
 <a href="https://www.linkedin.com/in/annabelletxp/">LinkedIn</a>.
