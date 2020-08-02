@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: allposts
 title: All posts
 landing-title: 'All posts'
@@ -9,4 +9,4 @@ author: null
 show_tile: false
 ---
 
-<h1>All posts</h1>
+<h1>All posts</h1> -->
