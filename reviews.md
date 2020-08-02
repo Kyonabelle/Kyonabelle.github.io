@@ -30,7 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3> “Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Is K-pop ‘real’ music? Forbes’ Asia ‘30 under 30’ compiled a list of individuals in Asia, categorising them by their area of specialty: industry, manufacturing and energy, enterprise technology, big money, and so on. <br>
+
+</br>Korean girl group Twice made it onto Forbes’ list under ‘Sports and Entertainment’. Can’t really say I’m surprised; Twice’s members’ appearances on variety shows often gain record viewerships, and their sponsorships and commercials (what Koreans term as ‘CF’) guarantee top sales that season. The girl group arguably owes much of its success to its strong fan-base, who propelled Twice’s music video views into the thousands within minutes of its release...</p>
 				<ul class="actions">
 					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Read more</a></li>
 				</ul>
