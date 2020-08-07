@@ -1,3 +1,2 @@
-# source "https://rubygems.org"
-# gemspec
-gem "jekyll", "~> 4.1"
+source "https://rubygems.org"
+gemspec
