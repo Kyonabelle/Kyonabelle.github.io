@@ -13,29 +13,27 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h1>Annabelle Kyon Teo</h1>
-			<span class="image right"><img src="{% link assets/images/Aboutmebanner-1.jpg %}" alt="" /></span>
 			<h4><i>Budding film-person living in the bustling city of Singapore</i></h4>
+				<span class="image fit"><img src="{% link assets/images/Aboutmebanner.jpg %}" alt="" /></span>
 		</header>
 
 <!-- Two -->
 <h2 id="content"></h2>
-<p>Annabelle dabbled in photography and short fiction-storywriting before she attended Ngee Ann Polytechnic's School of Film & Media Studies in 2012. During her diploma studies, she acquired technical training. Undertaking projects in the industry since 2010, Annabelle is seasoned in live events coverage, and in television and commercial productions.</p>
+<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaiemd School of Film & Media Studies. Being tasked with managing publicity and events for her extra-curricular clubs and societies, Annabelle's first-hand experiences helped her learn project management, sharpen her post-production editing skills and develop her unique cinematic style. On top of her excellent academic performance, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and chosen for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
 
-<p>In 2014, she was awarded the <b>Ngee Ann Merit award</b> for her excellent academic achievements and for holding leadership positions in co-curricular activities and overseas exchange programmes.</p>
-
-<p>Choosing to major in the field of post-production editing, scriptwriting and cinematography, she undertook internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. Upon graduation, she also managed her own photography and videography projects.</p>
+<p>With strengths in post-production editing, scriptwriting and cinematography, Annabelle went on to complete internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. On occasion, she has been employed to cater photography and videography services at weddings, graduations, and other corporate and personal events.</p>
 
 <ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Photography portfolio <i>here</i></a></li>
-	<li><a href="#" class="button special fit small">Videography portfolio <i>here</i></a></li>
+	<li><a href="https://kyonabelle.github.io/photography.html" class="button special fit small">Photography portfolio <i>here</i></a></li>
+	<li><a href="https://kyonabelle.github.io/videography.html" class="button special fit small">Videography portfolio <i>here</i></a></li>
 </ul>
 
-<p>In 2017, Annabelle was given the opportunity to further her studies in Australia's top institution – the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, a public institution priding in its high-quality research and active community engagement. During her undergraduate studies, Annabelle gained greater insights while engaging in discourses surrounding new media regulations, representation of global cultures, and screen aesthetics. Applying interdisciplinary approaches to her knowledge, Annabelle has conducted independent analysis and research that aim to examine issues within complex media environments.</p>
-
-<p>Being offered a place in the <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019, Annabelle embarked on a rigorous independent undergraduate research project that aimed to challenged the notion of Western dominance in Asia's entertainment industry. Pitching the notion of non-Western cultural imperialism in the post-television era, her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
+<p>In 2017, Annabelle was given the opportunity to further her studies in Australia's top institution – the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>. During her undergraduate studies, she engaged in academic discourses concerning new media regulations, representation of global cultures, and screen aesthetics. Offered a place in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019, Annabelle applied interdisciplinary approaches to examine non-Western cultural imperialism in the post-television era. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits Asia's exponentially increasing cultural power on the world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
 
 <p>Today, Annabelle continues to manage her independent videography and photography projects, and has recently ventured into producing film and television show reviews on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
+
 <hr />
+
 <!-- Three -->
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -56,7 +54,8 @@ nav-menu: true
 			<li><section><a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20080428-1#">"Straits Times School Pocket Money Fund" Funraiser - Mt. Kinabalu expedition (2008)</a></section></li>
 		</ul>
 	</div>
-	<div class="6u$ 12u$(small)">
+
+<div class="6u$ 12u$(small)">
 	<h3>Education</h3>
 		<ul>
 			<li>The University of Melbourne Bachelor of Arts (Honours)
@@ -64,22 +63,23 @@ nav-menu: true
 			<li>Ngee Ann Polytechnic School of Film & Media Studies
 			<section>‣ <i>Diploma in Film, Sound & Video (2012-2015)</i></section></li>
 		</ul>
-	</div>
-<hr />
-<h3 id="elements">Connect with Annabelle</h3>
-	<p><ul class="actions">
-		<li><a href="https://www.linkedin.com/in/annabelletxp/" class="button special icon fa-search">LinkedIn</a></li>
-		<li><a href="https://twitter.com/TteokShow" class="button special icon fa-search">Twitter</a></li>
-		<li><a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw" class="button special icon fa-search">Spotify</a></li>
-		<li><a href="https://www.instagram.com/bellethefreeelf/" class="button special icon fa-search">Instagram</a></li>
-	</ul></p>
-	<hr />
-<!-- Break -->
+</div>
 
+<!-- Four -->
+<h3>Connect with Annabelle</h3>
+	<a href="https://www.linkedin.com/in/annabelletxp/">
+		<img width="50" height="50" src="{% link assets/images/ICONlinkedin.png %}" alt="" /></a>
+	<a href="https://twitter.com/TteokShow">
+		<img width="50" height="50" src="{% link assets/images/ICONtwitter.png %}" alt="" /></a>
+	<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">
+		<img width="50" height="50" src="{% link assets/images/ICONspotify.png %}" alt="" /></a>
+	<a href="https://www.instagram.com/bellethefreeelf/">
+		<img width="50" height="50" src="{% link assets/images/ICONinstag.png %}" alt="" /></a>
+	<a href="mailto:annabellekyonteo@gmail.com">
+		<img width="50" height="50" src="{% link assets/images/ICONmail.png %}" alt="" /></a>
+</div><hr />
 
-
-
-<p>Delete later</p>
+<!-- BREAK -->
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>lorpus ipsum</h3>
