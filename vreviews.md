@@ -1,13 +1,42 @@
 ---
 layout: post
 title: Reviews
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: Content you should be paying attention to
+image: assets/images/Reviewsbanner-s.jpg
 nav-menu: true
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article2_Twice.jpg.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>“Aegyo”: Does K-pop’s adorable aesthetic make it less respectable as music?</h3>
+				</header>
+				<p><b>Is K-pop ‘real’ music?</b> Forbes’ Asia ‘30 under 30’ compiled a list of individuals in Asia, categorising them by their area of specialty: industry, manufacturing and energy, enterprise technology, big money...</p>
+				<ul class="actions">
+					<li><a href="https://turntablethought.com/2020/04/08/aegyo-does-k-pops-adorable-aesthetic-make-it-less-respectable-as-music/" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article1_Psycho_ss1.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>The Asian Invasion: Why the only lyrics I can remember ‘got me feelin’ like a psycho’</h3>
+				</header>
+				<p>The West has been the world’s top exporter of mainstream pop music for as...</p>
+				<ul class="actions">
+					<li><a href="https://turntablethought.com/2020/02/17/the-asian-invasion-psycho/" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>

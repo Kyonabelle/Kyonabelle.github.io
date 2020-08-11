@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+image: assets/images/Aboutmebanner-1.jpg
 nav-menu: true
 ---
 
@@ -11,15 +12,77 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>About me</h1>
+			<h1>Annabelle Kyon Teo</h1>
+			<span class="image right"><img src="{% link assets/images/Aboutmebanner-1.jpg %}" alt="" /></span>
+			<h4><i>Budding film-person living in the bustling city of Singapore</i></h4>
 		</header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!-- Two -->
+<h2 id="content"></h2>
+<p>Annabelle dabbled in photography and short fiction-storywriting before she attended Ngee Ann Polytechnic's School of Film & Media Studies in 2012. During her diploma studies, she acquired technical training. Undertaking projects in the industry since 2010, Annabelle is seasoned in live events coverage, and in television and commercial productions.</p>
+
+<p>In 2014, she was awarded the <b>Ngee Ann Merit award</b> for her excellent academic achievements and for holding leadership positions in co-curricular activities and overseas exchange programmes.</p>
+
+<p>Choosing to major in the field of post-production editing, scriptwriting and cinematography, she undertook internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. Upon graduation, she also managed her own photography and videography projects.</p>
+
+<ul class="actions fit small">
+	<li><a href="#" class="button special fit small">Photography portfolio <i>here</i></a></li>
+	<li><a href="#" class="button special fit small">Videography portfolio <i>here</i></a></li>
+</ul>
+
+<p>In 2017, Annabelle was given the opportunity to further her studies in Australia's top institution – the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, a public institution priding in its high-quality research and active community engagement. During her undergraduate studies, Annabelle gained greater insights while engaging in discourses surrounding new media regulations, representation of global cultures, and screen aesthetics. Applying interdisciplinary approaches to her knowledge, Annabelle has conducted independent analysis and research that aim to examine issues within complex media environments.</p>
+
+<p>Being offered a place in the <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019, Annabelle embarked on a rigorous independent undergraduate research project that aimed to challenged the notion of Western dominance in Asia's entertainment industry. Pitching the notion of non-Western cultural imperialism in the post-television era, her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
+
+<p>Today, Annabelle continues to manage her independent videography and photography projects, and has recently ventured into producing film and television show reviews on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
+<hr />
+<!-- Three -->
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
+	<h3>Leadership and achievements</h3>
+		<ul>
+			<li>The University of Melbourne Overseas Christian Fellowship
+				<section>‣ <i>Executive committee (2018)</i></section>
+				<section>‣ <i>Victoria state events committee, Head of programmes (2019)</i></section></li>
+			<li><section>Ngee Ann Polytechnic Merit Award (2014)</section></li>
+			<li>School of Film and Media Studies
+				<section>‣ <i>Hong Kong overseas trip student leader (2015)</i></section>
+				<section>‣ <i>Myanmar photography study trip student leader (2013)</i></section>
+				<section>‣ <i>Chengdu Overseas Immersion Programme student leader (2013)</i></section></li>
+			<li>Ngee Ann Polytechnic, Performing Arts
+				<section>‣ <i>Executive committee (2013-2014)</i></section></li>
+			<li>Ngee Ann Polytechnic, Photography club
+				<section>‣ <i>Events photographer and videographer (2013-2015)</i></section></li>
+			<li><section><a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20080428-1#">"Straits Times School Pocket Money Fund" Funraiser - Mt. Kinabalu expedition (2008)</a></section></li>
+		</ul>
+	</div>
+	<div class="6u$ 12u$(small)">
+	<h3>Education</h3>
+		<ul>
+			<li>The University of Melbourne Bachelor of Arts (Honours)
+			<section>‣ <i>Double major in Screen and Cultural Studies, and Media and Communications (2017-2019)</i></section></li>
+			<li>Ngee Ann Polytechnic School of Film & Media Studies
+			<section>‣ <i>Diploma in Film, Sound & Video (2012-2015)</i></section></li>
+		</ul>
+	</div>
+<hr />
+<h3 id="elements">Connect with Annabelle</h3>
+	<p><ul class="actions">
+		<li><a href="https://www.linkedin.com/in/annabelletxp/" class="button special icon fa-search">LinkedIn</a></li>
+		<li><a href="https://twitter.com/TteokShow" class="button special icon fa-search">Twitter</a></li>
+		<li><a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw" class="button special icon fa-search">Spotify</a></li>
+		<li><a href="https://www.instagram.com/bellethefreeelf/" class="button special icon fa-search">Instagram</a></li>
+	</ul></p>
+	<hr />
+<!-- Break -->
+
+
+
+
+<p>Delete later</p>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>lorpus ipsum</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
@@ -40,9 +103,7 @@ nav-menu: true
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 </div>
-
 <hr class="major" />
-
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
@@ -65,7 +126,6 @@ Finally, this is a <a href="#">link</a>.</p>
 <h3>Lists</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-
 		<h4>Unordered</h4>
 		<ul>
 			<li>Dolor etiam magna etiam.</li>
