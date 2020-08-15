@@ -1,5 +1,5 @@
 <!-- Contact -->
-<section id="contact">
+<!-- <section id="contact">
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.email }}" method="POST">
@@ -61,11 +61,12 @@
 			</section>
 		</section>
 	</div>
-</section>
+</section> -->
 
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<h3>Connect with Annabelle</h3>
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -97,6 +98,13 @@
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
+				{% if site.spotify_url %}
+				<li><a href="{{ site.spotify_url }}" class="icon alt fa-spotify" target="_blank"><span class="label">Spotify</span></a></li>
+				{% endif %}
+				{% if site.email %}
+				<li><a href="mailto:{{ site.email }}" class="icon alt fa-envelope-o" target="_blank"><span class="label">Mail</span></a></li>
+				{% endif %}
+				
 			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>

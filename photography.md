@@ -3,7 +3,10 @@ layout: post
 title: Photography
 description: professional events | personal events
 image: assets/images/Photographybanner2.jpg
-nav-menu: true
+nav-menu: false
+nav_order: 2
+show_tile: false
+
 ---
 
 <!-- One -->
