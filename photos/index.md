@@ -30,14 +30,14 @@ photos:
         <p><i>Graduations, weddings, corporate events, birthdays and profile shoots</i></p>
     	</header>
 
-<ul>
+<ul id="specialUl" >
   {% comment %}
     Get all "photo_set" pages and display a list with links to them.
   {% endcomment %}
   {% assign photo_pages = site.pages | where: "layout", "photo_set" %}
   {% for photo_page in photo_pages %}
     <li>
-      <a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a>
+      <h3><a href="{{ photo_page.url | prepend: site.baseurl }}">{{ photo_page.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
