@@ -1,10 +1,12 @@
 ---
 layout: landing
 title: Videography
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla."
 image: assets/images/pic07.jpg
 nav-menu: true
 nav_order: 3
+youtubeId: wMAlIibijY0
+driveId: 1G_zxEuaOoGDsPcLiaGqxEfYe34uzsMBW/preview
 ---
 
 <!-- Main -->
@@ -16,8 +18,15 @@ nav_order: 3
 		<header class="major">
 			<h2>Videography</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
+		{% include youtubePlayer.html id=page.youtubeId %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+    	{% include googleDrivePlayer.html id=page.driveId %}
+<iframe src="https://drive.google.com/file/d/1G_zxEuaOoGDsPcLiaGqxEfYe34uzsMBW/preview"
+width="640" height="480" allow="autoplay" allowfullscreen></iframe>
+    	<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+    </div>
+
 </section>
 
 <!-- Two -->
@@ -31,45 +40,49 @@ nav_order: 3
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+
+    			<p>
+
+    			Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+    			<ul class="actions">
+    				<li><a href="generic.html" class="button">Learn more</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    </section>
+    <section>
+    	<a href="generic.html" class="image">
+    		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+    	</a>
+    	<div class="content">
+    		<div class="inner">
+    			<header class="major">
+    				<h3>Rhoncus magna</h3>
+    			</header>
+    			<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+    			<ul class="actions">
+    				<li><a href="generic.html" class="button">Learn more</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    </section>
+    <section>
+    	<a href="generic.html" class="image">
+    		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+    	</a>
+    	<div class="content">
+    		<div class="inner">
+    			<header class="major">
+    				<h3>Sed nunc ligula</h3>
+    			</header>
+    			<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+    			<ul class="actions">
+    				<li><a href="generic.html" class="button">Learn more</a></li>
+    			</ul>
+    		</div>
+    	</div>
+    </section>
+
 </section>
 
 <!-- Three -->

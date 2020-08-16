@@ -41,15 +41,21 @@ layout: default
 					<h1>{{ page.title }}</h1>
 				</header>
 
-
-				<ul id="specialUl">
-					{% for i in (1..num) %}
-					<li>
-						<img src="{{ site.baseurl }}/assets/images/{{ page.photos.set }}/{{page.photos.set}}-{{ i }}.jpg"
-							alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-					</li>
-					{% endfor %}
-				</ul>
+				<div class="box alt">
+					<div class="row 25% uniform">
+						<!-- <ul id="specialUl"> -->
+						{% for i in (1..num) %}
+						<!-- <li> -->
+						<div class="4u"><span class="image fit">
+								<img src="{{ site.baseurl }}/assets/images/{{ page.photos.set }}/{{page.photos.set}}-{{ i }}.jpg"
+									alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+							</span>
+						</div>
+						<!-- </li> -->
+						{% endfor %}
+						<!-- </ul> -->
+					</div>
+				</div>
 				<div>
 					<a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
 				</div>

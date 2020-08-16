@@ -8,6 +8,6 @@ nav_exclude: true
 parent: Photography
 
 photos:
-    set: berlin
-    size: 3
+  set: corporate
+  size: 3
 ---

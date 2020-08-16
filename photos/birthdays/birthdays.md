@@ -9,5 +9,5 @@ parent: Photography
 
 photos:
   set: birthdays
-  size: 8
+  size: 5
 ---
