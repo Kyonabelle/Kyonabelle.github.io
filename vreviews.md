@@ -6,7 +6,13 @@ image: assets/images/Reviewsbanner-s.jpg
 nav-menu: true
 nav_order: 4
 ---
+<!-- One -->
+<h2>Listen to my podcast</h2>
+<i>I review popular movies, the latest Kdramas, and talk about the hottest trends on Netflix</i>
 
+<p><iframe src="https://open.spotify.com/embed-podcast/show/2Jobj5yU9GO76OsrQivkII" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+
+<h2>Articles and reviews</h2>
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>

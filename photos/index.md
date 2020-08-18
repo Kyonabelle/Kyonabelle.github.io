@@ -18,7 +18,6 @@ photos:
 		<header class="major">
 			<h1>Instagram</h1>
         </header>
-
 <!-- SnapWidget -->
 <iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
 
@@ -26,8 +25,7 @@ photos:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h1>Projects</h1>
-        <p><i>Graduations, weddings, corporate events, birthdays and profile shoots</i></p>
+			<h1>Projects</h1> 
     	</header>
 
 <ul id="specialUl" >
