@@ -20,7 +20,7 @@ nav_order: 1
 
 <!-- Two -->
 <h2 id="content"></h2>
-<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaiemd School of Film & Media Studies. Being tasked with managing publicity and events for her extra-curricular clubs and societies, Annabelle's first-hand experiences helped her learn project management, sharpen her post-production editing skills and develop her unique cinematic style. On top of her excellent academic performance, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and chosen for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
+<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies. Being tasked with managing publicity and events for her extra-curricular clubs and societies, Annabelle trained to manage projects well, sharpened her post-production editing skills, and eventually developed her unique cinematic style. With her excellent academic record, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and was selected for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
 
 <p>With strengths in post-production editing, scriptwriting and cinematography, Annabelle went on to complete internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. On occasion, she has been employed to cater photography and videography services at weddings, graduations, and other corporate and personal events.</p>
 
@@ -29,7 +29,7 @@ nav_order: 1
 	<li><a href="./videography.html" class="button special fit small">Videography portfolio <i>here</i></a></li>
 </ul>
 
-<p>In 2017, Annabelle was given the opportunity to further her studies in Australia's top institution – the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>. During her undergraduate studies, she engaged in academic discourses concerning new media regulations, representation of global cultures, and screen aesthetics. Offered a place in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019, Annabelle applied interdisciplinary approaches to examine non-Western cultural imperialism in the post-television era. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits Asia's exponentially increasing cultural power on the world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
+<p>Annabelle thoroughly enjoys engaging in academic discourses concerning new media regulations, representation of global cultures, and screen aesthetics. In 2017, Annabelle studied at the Australia's top institution, the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, and was offered a coveted position in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits that Asia's exponentially increasing cultural power was influential enough to oppose Western imperialism in the modern world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
 
 <p>Today, Annabelle continues to manage her independent videography and photography projects, and has recently ventured into producing film and television show reviews on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
 
@@ -44,6 +44,7 @@ nav_order: 1
 				<section>‣ <i>Executive committee (2018)</i></section>
 				<section>‣ <i>Victoria state events committee, Head of programmes (2019)</i></section></li>
 			<li><section>Ngee Ann Polytechnic Merit Award (2014)</section></li>
+			<li><section>The Christieara Programme (2012)</section></li>
 			<li>School of Film and Media Studies
 				<section>‣ <i>Hong Kong overseas trip student leader (2015)</i></section>
 				<section>‣ <i>Myanmar photography study trip student leader (2013)</i></section>
