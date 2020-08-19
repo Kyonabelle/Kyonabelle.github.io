@@ -1,12 +1,12 @@
 ---
 layout: landing
 title: Videography
-description: "Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla."
-image: assets/images/pic07.jpg
+description: 
+image: assets/images/Videographybanner.png
 nav-menu: true
 nav_order: 3
 youtubeId: wMAlIibijY0
-driveId: 1G_zxEuaOoGDsPcLiaGqxEfYe34uzsMBW/preview
+driveId: 1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview
 ---
 
 <!-- Main -->
@@ -17,15 +17,30 @@ driveId: 1G_zxEuaOoGDsPcLiaGqxEfYe34uzsMBW/preview
 	<div class="inner">
 		<header class="major">
 			<h2>Videography</h2>
+			<p>If you can't seem to play the videos, try switching off your ad-blocker and enable cookies</p>
 		</header>
-		{% include youtubePlayer.html id=page.youtubeId %}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-    	{% include googleDrivePlayer.html id=page.driveId %}
-<iframe src="https://drive.google.com/file/d/1G_zxEuaOoGDsPcLiaGqxEfYe34uzsMBW/preview"
-width="640" height="480" allow="autoplay" allowfullscreen></iframe>
-    	<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-    </div>
+<iframe src="https://drive.google.com/file/d/1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview" width="720" height="480"></iframe>
+    	<p>Wedding (same-day edit) slideshow for Ben & Fangzi. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/1g3-LVg-v4Yw6p_cY01mwmIcofH1XCSB7/preview" width="720" height="480"></iframe>
+    	<p>Pre-wedding interview for Greg & Candice. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/1UN4LnIaGza_wGuvUB1LjGiPLToFOC104/preview" width="720" height="480"></iframe>
+    	<p>Wedding (same-day edit) for Greg & Candice. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/139IZ3ocRbljHfjWZHSF496XE8E9F78mo/preview" width="720" height="480"></iframe>
+    	<p>Pre-wedding video for Sam & Ek Ping. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/1XxNkWTg9SRP1IprHZa-AuHDnrmA-NgLk/preview" width="720" height="480"></iframe>
+    	<p>Pre-wedding interview for Tim & Jael. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/1vPw5Tbu_fWL4_6On8fUyU0JfxnGRPyw8/preview" width="720" height="480"></iframe>
+    	<p>Pre-wedding video for Tim & Jael. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+
+<iframe src="https://drive.google.com/file/d/1abBi4_g21B1zsq4-unKG6ltnELcH6XDw/preview" width="720" height="480"></iframe>
+    	<p>Pre-wedding video for Jason & Hannah. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+</div>
 
 </section>
 
@@ -33,7 +48,7 @@ width="640" height="480" allow="autoplay" allowfullscreen></iframe>
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/Videographybanner.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -52,7 +67,7 @@ width="640" height="480" allow="autoplay" allowfullscreen></iframe>
     </section>
     <section>
     	<a href="generic.html" class="image">
-    		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+    		<img src="{% link assets/images/Videographybanner.png %}" alt="" data-position="top center" />
     	</a>
     	<div class="content">
     		<div class="inner">
@@ -68,7 +83,7 @@ width="640" height="480" allow="autoplay" allowfullscreen></iframe>
     </section>
     <section>
     	<a href="generic.html" class="image">
-    		<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+    		<img src="{% link assets/images/Videographybanner.png %}" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
     		<div class="inner">
