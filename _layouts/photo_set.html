@@ -27,49 +27,49 @@ layout: default
 
 <body>
 
-	{% include header.html %}
+    {% include header.html %}
 
 
 
-	<!-- Main -->
-	<div id="main" class="alt">
+    <!-- Main -->
+    <div id="main" class="alt">
 
-		<!-- One -->
-		<section id="one">
-			<div class="inner">
-				<header class="major">
-					<h1>{{ page.title }}</h1>
-				</header>
+        <!-- One -->
+        <section id="one">
+            <div class="inner">
+                <header class="major">
+                    <h1>{{ page.title }}</h1>
+                </header>
 
-				<div class="box alt">
-					<div class="row 25% uniform">
-						<!-- <ul id="specialUl"> -->
-						{% for i in (1..num) %}
-						<!-- <li> -->
-						<div class="4u"><span class="image fit">
-								<img src="{{ site.baseurl }}/assets/images/{{ page.photos.set }}/{{page.photos.set}}-{{ i }}.jpg"
-									alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-							</span>
-						</div>
-						<!-- </li> -->
-						{% endfor %}
-						<!-- </ul> -->
-					</div>
-				</div>
-				<div>
-					<a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
-				</div>
+                <div class="box alt">
+                    <div class="row 25% uniform">
+                        <!-- <ul id="specialUl"> -->
+                        {% for i in (1..num) %}
+                        <!-- <li> -->
+                        <div class="4u"><span class="image fit">
+                                <img src="{{ site.baseurl }}/assets/images/{{ page.photos.set }}/{{page.photos.set}}-{{ i }}.jpg"
+                                    alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+                            </span>
+                        </div>
+                        <!-- </li> -->
+                        {% endfor %}
+                        <!-- </ul> -->
+                    </div>
+                </div>
+                <div>
+                    <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
+                </div>
 
-				<!-- 
-				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}"
-						alt="" /></span>{% endif %}
-				{{ content }} -->
-			</div>
-		</section>
+                <!-- 
+                {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}"
+                        alt="" /></span>{% endif %}
+                {{ content }} -->
+            </div>
+        </section>
 
-	</div>
+    </div>
 
-	{% include footer.html %}
+    {% include footer.html %}
 
 </body>
 

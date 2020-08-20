@@ -13,15 +13,6 @@ photos:
 ---
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>Instagram</h1>
-        </header>
-<!-- SnapWidget -->
-<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
-
-<!-- Two -->
 <section id="two">
 	<div class="inner">
 		<header class="major">
@@ -39,3 +30,20 @@ photos:
     </li>
   {% endfor %}
 </ul>
+
+<!-- Division -->
+<div class="row">
+    <div class="6u 12u$(small)">
+
+<!-- Two -->
+<section id="one">
+  	<div class="inner">
+		<header class="major">
+			<h1>Instagram</h1>
+        </header>
+
+<!-- SnapWidget -->
+<div class="snapwidget desktop">
+<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
+</div>
+</div>

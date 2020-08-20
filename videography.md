@@ -17,11 +17,20 @@ driveId: 1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview
 	<div class="inner">
 		<header class="major">
 			<h2>Videography</h2>
-			<p>If you can't seem to play the videos, try switching off your ad-blocker and enable cookies</p>
+			<p>If you can't play the videos, try switching off your ad-blocker or enable cookies</p>
 		</header>
 
-<iframe src="https://drive.google.com/file/d/1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview" width="720" height="480"></iframe>
-    	<p>Wedding (same-day edit) slideshow for Ben & Fangzi. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="generic.html" class="image">
+			<iframe src="https://drive.google.com/file/d/1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview" width="720" height="480"></iframe></a>
+		<div class="content">
+			<div class="inner">
+	<p>Wedding (same-day edit) slideshow for Ben & Fangzi. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
+			</div>
+	</div>
+    </section>
 
 <iframe src="https://drive.google.com/file/d/1g3-LVg-v4Yw6p_cY01mwmIcofH1XCSB7/preview" width="720" height="480"></iframe>
     	<p>Pre-wedding interview for Greg & Candice. Request to watch the full video <a href="mailto:annabellekyonteo@gmail.com">here</a></p>
@@ -55,10 +64,7 @@ driveId: 1QTiwx9p7w14Yc7R07bwRlUVxdC8harBn/preview
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-
-    			<p>
-
-    			Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+	<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
     			<ul class="actions">
     				<li><a href="generic.html" class="button">Learn more</a></li>
     			</ul>
