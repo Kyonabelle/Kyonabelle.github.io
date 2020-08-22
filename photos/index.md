@@ -7,9 +7,9 @@ description: "professional events | personal events"
 nav-menu: true
 has_children: true
 
-photos:
-  set: berlin
-  size: 3
+# photos:
+#   set: berlin
+#   size: 3
 ---
 
 <!-- One -->
@@ -44,6 +44,6 @@ photos:
 
 <!-- SnapWidget -->
 <div class="snapwidget desktop">
-<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:495px; height:495px"></iframe>
-</div>
-</div>
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/864955" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>

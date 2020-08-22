@@ -17,17 +17,18 @@ nav_order: 1
 			<h4><i>Budding film-person living in the bustling city of Singapore</i></h4>
 				<span class="image fit"><img src="{% link assets/images/Aboutmebanner.jpg %}" alt="" /></span>
 		</header>
-
 <!-- Two -->
 <h2 id="content"></h2>
 <p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies. Being tasked with managing publicity and events for her extra-curricular clubs and societies, Annabelle trained to manage projects well, sharpened her post-production editing skills, and eventually developed her unique cinematic style. With her excellent academic record, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and was selected for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
 
 <p>With strengths in post-production editing, scriptwriting and cinematography, Annabelle went on to complete internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. On occasion, she has been employed to cater photography and videography services at weddings, graduations, and other corporate and personal events.</p>
 
-<ul class="actions fit small">
+<!-- <div class="spotlights section"> -->
+<ul class="actions vertical">
 	<li><a href="./photos/" class="button special fit small">Photography portfolio <i>here</i></a></li>
 	<li><a href="./videography.html" class="button special fit small">Videography portfolio <i>here</i></a></li>
 </ul>
+<!-- </div> -->
 
 <p>Annabelle thoroughly enjoys engaging in academic discourses concerning new media regulations, representation of global cultures, and screen aesthetics. In 2017, Annabelle studiedAustralia's top institution, the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, and was offered a coveted position in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits that Asia's exponentially increasing cultural power was influential enough to oppose Western imperialism in the modern world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
 
