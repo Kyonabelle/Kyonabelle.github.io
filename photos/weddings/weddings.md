@@ -9,5 +9,5 @@ parent: Photography
 
 photos:
     set: wedding
-    size: 15
+    size: 20
 ---

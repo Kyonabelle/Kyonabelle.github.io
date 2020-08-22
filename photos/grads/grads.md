@@ -9,5 +9,5 @@ parent: Photography
 
 photos:
     set: grad
-    size: 9
+    size: 24
 ---

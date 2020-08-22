@@ -9,5 +9,5 @@ parent: Photography
 
 photos:
   set: corporate
-  size: 15
+  size: 16
 ---
