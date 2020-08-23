@@ -19,9 +19,9 @@ nav_order: 1
 		</header>
 <!-- Two -->
 <h2 id="content"></h2>
-<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies. Being tasked with managing publicity and events for her extra-curricular clubs and societies, Annabelle trained to manage projects well, sharpened her post-production editing skills, and eventually developed her unique cinematic style. With her excellent academic record, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and was selected for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
+<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies. Being tasked with managing publicity and events for her clubs and societies, Annabelle has proven to manage projects well. With her excellent academic record, Annabelle was inaugurated into <b>The Christieara Programme​​</b> in 2012 and was selected for the <b>School of Film & Media Studies Merit award</b> in 2014.</p>
 
-<p>With strengths in post-production editing, scriptwriting and cinematography, Annabelle went on to complete internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2015 and 2016. On occasion, she has been employed to cater photography and videography services at weddings, graduations, and other corporate and personal events.</p>
+<p>Aiming to sharpen her post-production editing skills and eventually develop her unique cinematic style, Annabelle went on to complete internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2014 and 2016. On occasion, she caters photography and videography services at weddings, graduations, and other corporate and personal events.</p>
 
 <!-- <div class="spotlights section"> -->
 <ul class="actions vertical">
@@ -30,9 +30,9 @@ nav_order: 1
 </ul>
 <!-- </div> -->
 
-<p>Annabelle thoroughly enjoys engaging in academic discourses concerning new media regulations, representation of global cultures, and screen aesthetics. In 2017, Annabelle studiedAustralia's top institution, the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, and was offered a coveted position in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits that Asia's exponentially increasing cultural power was influential enough to oppose Western imperialism in the modern world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
+<p>While Annabelle has extensive experience as a technical crew, she also fancies discussions surrounding new media regulations, representation of global cultures, and screen aesthetics. In 2017, Annabelle studied at Australia's top institution, the <a href="https://study.unimelb.edu.au/">University of Melbourne</a>, and was offered a coveted position in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits that Asia's exponentially increasing cultural power was influential enough to oppose Western imperialism in the modern world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
 
-<p>Today, Annabelle continues to manage her independent videography and photography projects, and has recently ventured into producing film and television show reviews on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
+<p>Today, Annabelle continues to manage her independent videography and photography projects, and has recently ventured into producing reviews about film and tv shows on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
 
 <hr />
 
@@ -54,7 +54,7 @@ nav_order: 1
 				<section>‣ <i>Executive committee (2013-2014)</i></section></li>
 			<li>Ngee Ann Polytechnic, Photography club
 				<section>‣ <i>Events photographer and videographer (2013-2015)</i></section></li>
-			<li><section><a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20080428-1#">"Straits Times School Pocket Money Fund" Funraiser - Mt. Kinabalu expedition (2008)</a></section></li>
+			<li><section>"Straits Times School Pocket Money Fund" Funraiser - <a href="https://eresources.nlb.gov.sg/newspapers/digitised/issue/straitstimes20080428-1#">Mt. Kinabalu expedition (2008)</a></section></li>
 		</ul>
 	</div>
 
