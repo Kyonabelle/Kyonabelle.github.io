@@ -9,5 +9,5 @@ parent: Photography
 
 photos:
     set: profile
-    size: 12
+    size: 16
 ---
