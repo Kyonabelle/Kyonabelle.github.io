@@ -32,8 +32,8 @@ has_children: true
 </ul>
 
 <!-- Division -->
-<div class="row">
-    <div class="6u 12u$(small)">
+<!-- <div class="row">
+    <div class="6u 12u$(small)"> -->
 
 <!-- Two -->
 <section id="one">
@@ -45,5 +45,10 @@ has_children: true
 <!-- SnapWidget -->
 <div class="snapwidget desktop">
 <!-- SnapWidget -->
+<!-- <script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/864955" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe> -->
+
+
+<!-- SnapWidget -->
 <script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/864955" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+<iframe src="https://snapwidget.com/embed/633817" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
