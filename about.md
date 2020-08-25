@@ -19,11 +19,11 @@ nav_order: 1
 		</header>
 <!-- Two -->
 <h2 id="content"></h2>
-<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies, Singapore. To start her professional journey in the entertainment industry, Annabelle pursued internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2014 and 2016.</p>
+<p>Annabelle pursued a technical diploma in Film, Sound & Video at Ngee Ann Polytechnic's acclaimed School of Film & Media Studies, Singapore. To start her professional journey in the entertainment industry, Annabelle embarked on internships at <b>Mediacorp Pte Ltd</b> and <b>The Moving Visuals Co</b> between 2014 and 2016.</p>
 
 <p>Despite her extensive experience as a technical crew, Annabelle siezed the opportunity to further her studies at Australia's top institution, the <a href="https://study.unimelb.edu.au/">University of Melbourne</a> in 2017, and was offered a coveted position in Unimelb's rigorous <a href="https://arts.unimelb.edu.au/students/undergraduate/enrich-your-bachelor-of-arts/honours">honours programme</a> in 2019. Using Netflix and the South Korean "Hallyu" wave as her case study, she posits that Asia's exponentially increasing cultural power was influential enough to oppose Western imperialism in the post-television world. Her thesis titled, <i>"Netflix Unoriginals: Where does the West stand among the Rest"</i>, was awarded first-class honours.</p>
 
-<p>Today, Annabelle continues to manage her independent videography and photography projects (buttons below), but she also recently ventured into producing reviews about film and tv shows on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
+<p>Today, Annabelle continues to manage her independent videography and photography projects (buttons below) and has also  ventured into producing reviews about film and tv shows on her podcast, "<a href="https://open.spotify.com/show/2Jobj5yU9GO76OsrQivkII?si=o0ZaXe70RImBSWiES_a5Yw">Tteok Show</a>".</p>
 
 <!-- <div class="spotlights section"> -->
 <ul class="actions vertical">
