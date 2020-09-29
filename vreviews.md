@@ -17,6 +17,54 @@ nav_order: 4
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article5_KpopEnglish.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Why on EARTH is K-pop being sung in English?</h3>
+				</header>
+				<p>A couple of weeks ago, I was introduced to BTS’ latest single, “Dynamite”. The unique selling point of the music video was that its visual concept...</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@annabellekyon/why-on-earth-is-k-pop-being-sung-in-english-51ce42908b5e" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article4_Alice.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>“Fantasy” is the new kid in town</h3>
+				</header>
+				<p>The “fantasy” genre is one hardly seen on regular television. The genre is difficult to produce because of how complex it is...</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@annabellekyon/fantasy-is-the-new-kid-in-town-458a64f6658e" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article3_Alive.jpeg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>#ALIVE shows us how unprepared we are for a pandemic</h3>
+				</header>
+				<p><i><b>(May contain spoilers)</b></i> Among the Netflix Originals that managed to squeeze a release, the South Korean film #Alive (2020) was received with great...</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@annabellekyon/alive-reflects-how-unprepared-we-are-for-a-pandemic-669e95cda650" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/Article2_Twice.jpg.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
