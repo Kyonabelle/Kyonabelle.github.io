@@ -15,6 +15,22 @@ nav_order: 4
 <h2>Articles and reviews</h2>
 <!-- Two -->
 <section id="two" class="spotlights">
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article6_sweethome.jpeg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Horror is the best genre to watch during a pandemic</h3>
+				</header>
+				<p>What doesn’t kill you makes you stronger — especially if they’re sealed behind the screen.</p>
+				<ul class="actions">
+					<li><a href="https://annabellekyon.medium.com/horror-is-the-best-genre-to-watch-during-a-pandemic-cce4d96c7374" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/Article5_KpopEnglish.jpg %}" alt="" data-position="top center" />
@@ -94,5 +110,6 @@ nav_order: 4
 				</ul>
 			</div>
 		</div>
+
 	</section>
 
