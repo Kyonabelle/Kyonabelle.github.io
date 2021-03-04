@@ -17,6 +17,22 @@ nav_order: 4
 <section id="two" class="spotlights">
 <section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article7_spotify.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Why K-pop playlists are grey</h3>
+				</header>
+				<p>And why K-pop fans are not happy about it.</p>
+				<ul class="actions">
+					<li><a href="https://annabellekyon.medium.com/why-k-pop-playlists-are-grey-8056a8a6f3cd" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/Article6_sweethome.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
