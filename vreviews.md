@@ -17,6 +17,22 @@ nav_order: 4
 <section id="two" class="spotlights">
 <section>
 		<a href="generic.html" class="image">
+			<img src="{% link assets/images/ArticleArticle9_Sisyphusreview.jpeg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Sisyphus: The Myth sci-fi Kdrama review</h3>
+				</header>
+				<p>A seasoned K-drama watcher's take on JTBC's 10th anniversary special project.</p>
+				<ul class="actions">
+					<li><a href="https://annabellekyon.medium.com/sisyphus-the-myth-sci-fi-kdrama-review-b145ddca8969" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+<section>
+		<a href="generic.html" class="image">
 			<img src="{% link assets/images/Article7_spotify.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
