@@ -17,7 +17,7 @@ nav_order: 4
 <section id="two" class="spotlights">
 <section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/ArticleArticle9_Sisyphusreview.jpeg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/Article8_Sisyphusreview.jpeg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
