@@ -71,3 +71,11 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+
+
+
+# To run the repo 
+Follow the instructions on https://github.com/BillRaymond/install-jekyll-apple-silicon/blob/main/README.md  
+Then
+
+```bundle exec jekyll  serve --port 8000 --watch```
