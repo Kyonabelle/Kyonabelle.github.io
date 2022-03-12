@@ -1,11 +1,13 @@
----
+<!-- comment this out to hide tab -->
+<!-- ---
 layout: landing
 title: Videography
 description: artistic projects | events coverage
 image: assets/images/Videographybanner.png
 nav-menu: true
 nav_order: 3
----
+--- -->
+
 
 <link rel="stylesheet" type="text/css" media="all" href="video_markdown.css" />
 
