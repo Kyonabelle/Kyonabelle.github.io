@@ -13,9 +13,40 @@ nav_order: 4
 <p><iframe src="https://open.spotify.com/embed-podcast/show/2Jobj5yU9GO76OsrQivkII" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
 
 <h2>Articles and reviews</h2>
-
 <!-- Two -->
 <section id="two" class="spotlights">
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article10_Snowdrop.jpeg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Snowdrop: Cultural and historial insensitivity or an overreaction?</h3>
+				</header>
+				<p>When do fictional works cease being "art", and instead impede on national identity? While more open-minded and/or international audiences are questioning the excessiveness of local complaints, there is value in what Koreans want to safeguard against.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@annabellekyon/cultural-and-historical-insensitivity-or-an-overreaction-a6e69847112f" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Article9_Lastnightinsoho.jpeg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Is there a Wright way?</h3>
+				</header>
+				<p>The contention between an evolving auteur and the disregarded fan walks a thin line. Seeing how Edgar Wright deviated from his stylistic irreverent comic style in "Baby Driver", one loyal fan debates how Wright "Last Night in Soho" will be.</p>
+				<ul class="actions">
+					<li><a href="https://medium.com/@annabellekyon/whats-the-wright-way-c25f0a870d36" class="button">Continue reading</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/Article8_Sisyphusreview.jpeg %}" alt="" data-position="top center" />
