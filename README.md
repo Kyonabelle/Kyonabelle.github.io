@@ -74,8 +74,9 @@ Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a 
 
 
 
-# To run the repo 
+# To install
 Follow the instructions on https://github.com/BillRaymond/install-jekyll-apple-silicon/blob/main/README.md  
-Then
 
+
+# To run
 ```bundle exec jekyll  serve --port 8000 --watch```
