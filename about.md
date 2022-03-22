@@ -28,7 +28,7 @@ nav_order: 1
 <!-- <div class="spotlights section"> -->
 <ul class="actions vertical">
 	<li><a href="./photos/" class="button special fit small">Photography portfolio <i>here</i></a></li>
-	<li><a href="./videography.html" class="button special fit small">Videography portfolio <i>here</i></a></li>
+	<!-- <li><a href="./videography.html" class="button special fit small">Videography portfolio <i>here</i></a></li> -->
 </ul>
 <!-- </div> -->
 

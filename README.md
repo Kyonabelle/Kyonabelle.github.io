@@ -74,8 +74,19 @@ Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a 
 
 
 
+<<<<<<< HEAD
 # To install
 Follow the instructions on https://github.com/BillRaymond/install-jekyll-apple-silicon/blob/main/README.md  
+=======
+# To run the repo 
+Follow the instructions on https://github.com/BillRaymond/install-jekyll-apple-silicon/blob/main/README.md  to install ruby
+
+Then on terminal run:
+
+```bundle install```
+
+and then:
+>>>>>>> 04bcf48baff4af100197dee202060fcc9e6bb76d
 
 
 # To run
